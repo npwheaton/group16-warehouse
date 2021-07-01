@@ -12,12 +12,19 @@ This program can do the following things:
   Keeping Track of Customer Transactions
   
   Accept and Process Clients’ Orders
+  
   Generating an Invoice
+  
   Accept Payment from Customer
+  
   Accept Shipment from a Supplier
+  
   List Transactions for a Client
+  
   List Suppliers and their Prices for Products
+  
   List Clients with Outstanding Balance
+  
   List Products, Quantity in Stock, and Total Quantity of Waitlisted Orders
   
-  IT is run using the WARECONTEXT.java
+  It is run using the WARECONTEXT.java
