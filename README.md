@@ -4,9 +4,13 @@ This program can do the following things:
   Login as client clerk or manager
   
   Adding Clients, Products, and Suppliers
+  
   Tracking Product and Suppliers
+  
   Keeping Track of Inventory
+  
   Keeping Track of Customer Transactions
+  
   Accept and Process Clients’ Orders
   Generating an Invoice
   Accept Payment from Customer
