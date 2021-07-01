@@ -1,5 +1,8 @@
 # group16-warehouse
 This project was a collaborative effort to make a program that creates an inventory database where users can buy products, order supply and manage client information using object-oriented database design.
+
+It is run using the WARECONTEXT.java
+
 This program can do the following things:
   Login as client clerk or manager
   
@@ -27,4 +30,4 @@ This program can do the following things:
   
   List Products, Quantity in Stock, and Total Quantity of Waitlisted Orders
   
-  It is run using the WARECONTEXT.java
+  
